@@ -27,7 +27,7 @@ make install
 
 ### 首次运行
 ```bash
-python alexandria
+python alexandria /home
 ```
 出现如下提示：Please edit the configuration file：XXX
 使用编辑器打开配置文件XXX
