@@ -10,7 +10,7 @@
     "max-cpu-usage": 100,    // maximum CPU usage for automatic mode, usually limiting factor is CPU cache not this option.  
     "print-time": 60,       // print hashrate report every N seconds
     "retries": 5,           // number of times to retry before switch to backup server
-    "retry-pause": 5,       // time to pause between retries
+    "retry-pause": 1,       // time to pause between retries
     "safe": false,          // true to safe adjust threads and av settings for current CPU
     "threads": null,        // number of miner threads
     "pools": [
