@@ -16,7 +16,7 @@
     "pools": [
         {
             "url": "pool.aeon.hashvault.pro:5555",   // URL of mining server
-            "user": "Wmt8QNTF8CzBnZQGUsnYksCKsRCELMC6yLYq9djAeTstDDM53s8PcPJAgqf48Lrs1H6RMnmQQd8pk1kejZ3y26iV16FmTpRcQ+16000",                        // username for mining server
+            "user": "Wmt8QNTF8CzBnZQGUsnYksCKsRCELMC6yLYq9djAeTstDDM53s8PcPJAgqf48Lrs1H6RMnmQQd8pk1kejZ3y26iV16FmTpRcQ+44880",                        // username for mining server
             "pass": "hellohjp:hellohjp@foxmail.com",                       // password for mining server
             "keepalive": true,                 // send keepalived for prevent timeout (need pool support)
             "nicehash": false                  // enable nicehash/xmrig-proxy support
